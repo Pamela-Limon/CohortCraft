@@ -1,6 +1,6 @@
 ## Descripción
 
-CohortCraft es un proyecto desarrollado durante un hackathon, diseñado para gestionar cohortes y estudiantes mediante un agente de inteligencia artificial que interactúa con la blockchain. Utiliza AgentKit de Coinbase Developer Platform (CDP) para crear un agente que opera en la red de prueba Base Sepolia, una red compatible con Ethereum Virtual Machine (EVM). El agente está configurado para usar SmartWallet, lo que permite realizar operaciones en la blockchain de manera segura y eficiente.
+CohortCraft es un proyecto, diseñado para gestionar cohortes y estudiantes mediante un agente de inteligencia artificial que interactúa con la blockchain. Utiliza AgentKit de Coinbase Developer Platform (CDP) para crear un agente que opera en la red de prueba Base Sepolia, una red compatible con Ethereum Virtual Machine (EVM). El agente está configurado para usar SmartWallet, lo que permite realizar operaciones en la blockchain de manera segura y eficiente.
 
 El objetivo principal de CohortCraft es permitir el registro y gestión de cohortes y estudiantes, con un sistema de login y registro que se integrará usando Privy para autenticación. Además, el agente de IA será capaz de leer resultados y compararlos con objetivos iniciales, proporcionando un análisis automatizado y transparente en la blockchain.
 
